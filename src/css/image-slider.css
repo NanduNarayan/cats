@@ -1,0 +1,15 @@
+.cat-img{
+    width:80%;
+    height: 400px;
+}
+.cat-img:hover{
+    width:85%;
+    height:410px;
+
+}
+.controls{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly
+}
